@@ -1,0 +1,28 @@
+.passcode-generator {
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 12px;
+  max-width: 600px;
+  margin: auto;
+  background: #ebebeb;
+  padding: 10px;
+  font-size: 40px;
+  margin-top: 40px;
+}
+
+.history-board {
+  margin: auto;
+  max-width: 600px;
+  background: #ebebeb;
+  border: 1px solid black;
+  border-radius: 12px;
+  text-align: center;
+  padding: 10px;
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+.passcode-history {
+  height: 300px;
+  overflow: scroll;
+}
